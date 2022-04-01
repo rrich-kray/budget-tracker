@@ -22,12 +22,14 @@ This app served as an excellent primer to PWAs and the numerous benefits they pr
 On that note, the application is characterized by three main features:
 
 - Users can record expenses through the app's minimalist and user-friendly UI.
-- Budget data is displayed in both column and graph format.
+- Budget data is displayed in both column and graphical format.
 - Application utilizes Service Worker and IndexedDB for offline functionality.
 
 ## Installation
 
-No installation required; simply follow the link below to access the deployed application.
+Installation is not required to use this app; simply follow the link below to access the deployed application.
+
+However, users have the option to install the application. Follow the instructions in the proceeding section to do so.
 
 ## How it works
 
@@ -38,6 +40,10 @@ Usage is straightforward. Simply enter your transaction name and amount in the a
 ![main screenshot](./public/images/screen32.png)
 
 The highlight of the application is its offline capability. Users can submit transactions in the absence of internet connectivity thanks to IndexedDB's caching functionality. Additionally, all front-end assets are cached using Service Worker.
+
+Users also have the capability to install the application locally, thanks to the project's manifest.json file. To install, simply click the appropriate icon in the browser's navigation bar:
+
+![main screenshot](./public/images/screen3.png)
 
 ## Utilizes
 
