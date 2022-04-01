@@ -1,5 +1,7 @@
 # Budget Tracker
 
+This is the repository for the Budget Tracker PWA.
+
 ## Table of Contents
 
 [Description](#description)  
