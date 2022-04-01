@@ -17,7 +17,7 @@
 
 the Budget Tracker app was designed so that users could keep track of their expenses over time.
 
-This app served as a great way to learn more about PWAs and the benefits they can provide to users above and beyond those of traditional web applications.
+This app served as an excellent primer to PWAs and the numerous benefits they provide.
 
 On that note, the application is characterized by three main features:
 
@@ -31,7 +31,7 @@ No installation required; simply follow the link below to access the deployed ap
 
 ## How it works
 
-My primary focus was building a fully-fledged PWA with offline functionality; With that in mind, the rest of the application is fairly lean. The UI is minimalist, and only three Express.js routes were necessary to access/modify the database, which consists of one table.
+My primary focus was building a fully-fledged PWA with offline functionality; with that in mind, the rest of the application is fairly lean. The UI is minimalist, and only three Express.js routes were necessary to access/modify the database, which consists of one table.
 
 Usage is straightforward. Simply enter your transaction name and amount in the appropriate input boxes, and then hit the "Add Funds" button.
 
