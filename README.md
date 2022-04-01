@@ -17,7 +17,7 @@ This is the repository for the Budget Tracker PWA.
 
 ![main screenshot](./public/images/screen1.png)
 
-Budget Tracker was designed so that users could keep track of their expenses over time.
+Budget Tracker was designed to help users visualize their expenses over time.
 
 This app served as an excellent primer to PWAs and the numerous benefits they provide.
 
