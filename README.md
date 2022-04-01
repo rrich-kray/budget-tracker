@@ -31,6 +31,8 @@ On that note, the application is characterized by three main features:
 
 Installation is not required to use this app; simply follow the link below to access the deployed application.
 
+https://budget-tracker-rrich.herokuapp.com/
+
 However, users have the option to install the application. Follow the instructions in the proceeding section to do so.
 
 ## How it works
