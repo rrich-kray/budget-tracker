@@ -35,6 +35,7 @@ self.addEventListener("activate", (e) => {
 
 // Intercept fetch requests
 self.addEventListener("fetch", function (evt) {
+  console.log("fetch request" + evt.request.url);
   if (evt.request.url.includes("/api/")) {
     evt.respondWith(
       caches
